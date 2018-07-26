@@ -1,3 +1,3 @@
 # How-google-does-Machine-Learning
 
-Module 1 - Question 1 answer is The ML dataset was improperly created and not the answer that is marked.
+Kindly ignore the answer marked for module 1, quiz 1. The correct answer is d) The ML dataset was improperly created.
